@@ -77,3 +77,6 @@
 
   ;; you may want to add different for other charset in this way.
         )
+
+;;; set no scroll bar
+(menu-bar-no-scroll-bar)
