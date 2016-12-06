@@ -1,8 +1,8 @@
-BasedOnStyle : google
-IndentWidth : 2
-AccessModifierOffset : -4
-AllowShortIfStatementsOnASingleLine : true
-AlwaysBreakTemplateDeclarations : true
-Standard : C++11
-PointerAlignment : Left
-DerivePointerAlignment : true
+BasedOnStyle: Google
+IndentWidth: 2
+AllowShortIfStatementsOnASingleLine: true
+AlwaysBreakTemplateDeclarations: true
+Standard: C++11
+AccessModifierOffset: -1
+DerivePointerAlignment: false
+PointerAlignment: Left
